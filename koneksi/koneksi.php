@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("185.27.134.10", "b32_26204761", "14Fbry1998", "b32_26204761_db_simers");
+$conn = mysqli_connect("db4free.net", "rahmatilyas", "14-02-1998", "db_simrs");
 
 //Tambah data dokter
 function tambah_dokter($data)
